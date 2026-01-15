@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Sepehr Sahraian
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning" alt="Animated text displaying Software Developer, Problem Solver, Open Source Enthusiast, Always Learning" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sprshr&color=blue&style=flat-square)](https://github.com/sprshr)
 
@@ -57,8 +57,8 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=sprshr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprshr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sprshr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sepehr's GitHub statistics showing repository and contribution data" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprshr&layout=compact&theme=tokyonight&hide_border=true" alt="Sepehr's most used programming languages chart" height="170"/>
 
 </div>
 
@@ -84,7 +84,7 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sprshr&theme=tokyo-night&hide_border=true)
+![Sepehr's GitHub contribution activity graph over time](https://github-readme-activity-graph.vercel.app/graph?username=sprshr&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -107,7 +107,7 @@ I'm a passionate software developer who loves building innovative solutions and 
   
 ### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Decorative wave pattern footer graphic](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 **Thanks for visiting! 😊**
 
