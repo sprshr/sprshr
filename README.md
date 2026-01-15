@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Sepehr Sahraian
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sprshr&color=blue&style=flat-square)](https://github.com/sprshr)
 
@@ -64,7 +64,7 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sprshr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sprshr&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -80,11 +80,11 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sprshr&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sprshr&theme=tokyo-night&hide_border=true)
 
 </div>
 
