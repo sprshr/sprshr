@@ -64,7 +64,7 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sprshr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sprshr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -107,7 +107,7 @@ I'm a passionate software developer who loves building innovative solutions and 
   
 ### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 **Thanks for visiting! 😊**
 
