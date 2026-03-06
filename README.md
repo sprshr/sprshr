@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Sepehr. <br> 📚 I study software engineering at [UC Irvine](https://ics.uci.edu). <br> 🐧 I like building and deploying software. I'm a big self-hosting enthusiast.<br> 👨‍💼 I volunteer for [SANDARC](https://sandarc.org). I write automation software and help manage their IT infrastructure.
+My name is [Sepehr](https://www.urbandictionary.com/define.php?term=sepehr). <br> 📚 I study software engineering at [UC Irvine](https://ics.uci.edu). <br> 🐧 I like building and deploying software. I'm a big self-hosting enthusiast.<br> 👨‍💼 I volunteer for [SANDARC](https://sandarc.org). I write automation software and help manage their IT infrastructure.
 
 
 ## 🌐 Socials:
